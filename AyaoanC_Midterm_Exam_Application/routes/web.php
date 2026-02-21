@@ -9,3 +9,4 @@ Route::get('/', function () {
     return redirect('/movies');
 });
 
+
